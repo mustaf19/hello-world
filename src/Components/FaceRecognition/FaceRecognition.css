@@ -1,0 +1,13 @@
+/*copying from clarifai app face recog..
+and ctrl+shift+i to get the css code and then deleting NOTnecessary properties //*/
+.bounding-box
+{
+	/*color:  red;*/
+	/*background: red;*/
+	position: absolute;
+	box-shadow:  0 0 0 3px #149df2 inset;
+	display:  flex;
+	flex-wrap:  wrap;
+	justify-content: center;
+	cursor:  pointer;
+}

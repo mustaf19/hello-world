@@ -1,7 +1,7 @@
-# hello-world
-revisiting the git-hub..
-Hello, My name is Mustafizur Rahman. 
-I am doing my Bachelors in Computer Science and Engineering..
-Nice to talk to you,,
-Ok..
-Thanks
+# robofriends
+Tutorial for React
+To run the project:
+
+1. Clone this repo
+2. Run `npm install`
+3. Run `npm start`
